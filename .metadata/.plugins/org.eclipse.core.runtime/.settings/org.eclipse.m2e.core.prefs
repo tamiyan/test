@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 eclipse.m2.autoUpdateProjects=true
 eclipse.m2.downloadSources=true
 eclipse.preferences.version=1
+=======
+eclipse.m2.autoUpdateProjects=true
+eclipse.m2.downloadSources=true
+eclipse.preferences.version=1
+>>>>>>> 6e30e979c93832897603b115659adce2bea07560

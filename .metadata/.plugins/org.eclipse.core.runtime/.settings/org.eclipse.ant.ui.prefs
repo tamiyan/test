@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 useAnnotationsPrefPage=true
 eclipse.preferences.version=1
 #workspacejre=true
 useQuickDiffPrefPage=true
+=======
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+#workspacejre=true
+useQuickDiffPrefPage=true
+>>>>>>> 6e30e979c93832897603b115659adce2bea07560
