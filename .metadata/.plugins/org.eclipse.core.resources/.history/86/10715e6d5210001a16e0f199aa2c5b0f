@@ -17,10 +17,6 @@ public class SmartPhone implements Mp3Player{
 		System.out.println("戻る");
 	}
 
-	public void call(){
-		System.out.println("電話");
-	}
-
 	public void mail(){
 		System.out.println("メール");
 	}
