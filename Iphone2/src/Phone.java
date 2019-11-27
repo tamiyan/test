@@ -26,6 +26,10 @@ public class Phone {
 	}
 
 	public void photo(){
+		System.out.println("写真");
+	}
+
+	public void internet(){
 		System.out.println("インターネット");
 	}
 
