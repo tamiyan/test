@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=6e30e979c93832897603b115659adce2bea07560
@@ -10,3 +11,18 @@ eclipse.preferences.version=1
 platformState=1572933406940
 quickStart=false
 tipsAndTricks=true
+=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=6e30e979c93832897603b115659adce2bea07560
+EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+IDE_ENCODINGS_PREFERENCE=MS932'EUC-JP
+PROBLEMS_FILTERS_MIGRATE=true
+SHOW_LOCATION=true
+SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
+TASKS_FILTERS_MIGRATE=true
+eclipse.preferences.version=1
+platformState=1571586838912
+quickStart=false
+tipsAndTricks=true
+>>>>>>> 8717e412110e624e89ccface69742ffef3d6a605
