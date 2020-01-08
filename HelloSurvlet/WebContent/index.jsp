@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<input type="button"value="HelloServlet"onClick="location.href='HelloServlet'">
+<input type="button"value="WelcomServlet"onClick="location.href='welcome.jsp'">
 </body>
 </html>

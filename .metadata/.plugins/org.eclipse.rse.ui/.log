@@ -1,13 +1,13 @@
-Wed Dec 18 19:13:33 JST 2019
+Wed Jan 08 19:42:27 JST 2020
 ERROR org.eclipse.rse.ui  Error creating temp project
 org.eclipse.core.internal.resources.ResourceException: 'RemoteSystemsTempFiles' のプロジェクト記述ファイル (.project) の読み取りに失敗しました。 ファイルはディスク上で変更され、現在は無効な情報を含んでいます。 記述ファイルが有効な状態に復元されるまで、プロジェクトは正しく機能しません。
-	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:897)
-	at org.eclipse.core.internal.resources.Project.updateDescription(Project.java:1329)
-	at org.eclipse.core.internal.resources.Project.create(Project.java:289)
-	at org.eclipse.core.internal.resources.Project.create(Project.java:252)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:910)
+	at org.eclipse.core.internal.resources.Project.updateDescription(Project.java:1343)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:284)
 	at org.eclipse.core.internal.resources.Project.create(Project.java:247)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:242)
 	at org.eclipse.rse.internal.files.ui.resources.SystemRemoteEditManager.createRemoteEditProject(SystemRemoteEditManager.java:334)
 	at org.eclipse.rse.internal.files.ui.resources.SystemRemoteEditManager.getRemoteEditProject(SystemRemoteEditManager.java:284)
 	at org.eclipse.rse.internal.files.ui.Activator$InitRemoteEditJob.run(Activator.java:73)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
 --------------------------------------------
