@@ -12,6 +12,7 @@
     <servlet-name>Hello</servlet-name>
     <url-pattern>/HelloServlet/HelloServlet</url-pattern>
   </servlet-mapping>
+<<<<<<< HEAD
   <servlet>
     <servlet-name>Welcome</servlet-name>
     <servlet-class>WelcomeServlet</servlet-class>
@@ -28,11 +29,37 @@
     <servlet-name>Inquiry</servlet-name>
     <url-pattern>/HelloServlet/InquiryServlet</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Test</servlet-name>
+  	<servlet-class>TestServlet</servlet-class>
+=======
+  <servlet>
+    <servlet-name>Welcome</servlet-name>
+    <servlet-class>WelcomeServlet</servlet-class>
+>>>>>>> 8c394c83d99aa7d3b9cd890bcdb0cd90ddc46889
+  </servlet>
+  
+  <servlet-mapping>
+<<<<<<< HEAD
+=======
+    <servlet-name>Welcome</servlet-name>
+    <url-pattern>/HelloServlet/WelcomeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Inquiry</servlet-name>
+    <servlet-class>InquiryServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Inquiry</servlet-name>
+    <url-pattern>/HelloServlet/InquiryServlet</url-pattern>
+  </servlet-mapping>
   <servlet>
   <servlet-name>Test</servlet-name>
   <servlet-class>TestServlet</servlet-class>
   </servlet>
   <servlet-mapping>
+>>>>>>> 8c394c83d99aa7d3b9cd890bcdb0cd90ddc46889
   <servlet-name>Test</servlet-name>
   <url-pattern>/HelloServlet/TestServlet</url-pattern>
   </servlet-mapping>
