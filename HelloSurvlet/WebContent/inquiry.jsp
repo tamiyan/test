@@ -1,18 +1,18 @@
-<<<<<<< HEAD
+
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-=======
+
 <%@ page language="java" contentType="text/html;charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html >
->>>>>>> 8c394c83d99aa7d3b9cd890bcdb0cd90ddc46889
+
 <html>
 <head>
 <meta charset="UTF-8">
 <title>お問い合わせフォーム</title>
 </head>
-<<<<<<< HEAD
+
 <body>
 
  <form method="post" action="InquiryServlet">
@@ -26,7 +26,6 @@
     </textarea>
         <br> <input type="submit" value="登録">
     </form>
-=======
 
 <body>
 	<form method="post"action="InquiryServlet">
@@ -40,7 +39,6 @@
 		</textarea>
 		<br><input type ="submit" value ="登録">
 	</form>
->>>>>>> 8c394c83d99aa7d3b9cd890bcdb0cd90ddc46889
 
 </body>
 </html>
