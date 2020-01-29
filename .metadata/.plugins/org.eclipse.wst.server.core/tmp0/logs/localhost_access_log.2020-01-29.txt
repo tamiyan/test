@@ -3,3 +3,6 @@
 0:0:0:0:0:0:0:1 - - [29/Jan/2020:19:56:27 +0900] "GET /HelloSurvlet/ HTTP/1.1" 200 736
 0:0:0:0:0:0:0:1 - - [29/Jan/2020:19:56:34 +0900] "GET /HelloSurvlet/TestServlet?username=aaa&password=aaa HTTP/1.1" 200 55
 0:0:0:0:0:0:0:1 - - [29/Jan/2020:19:56:44 +0900] "POST /HelloSurvlet/TestServlet HTTP/1.1" 200 55
+127.0.0.1 - - [29/Jan/2020:21:18:23 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [29/Jan/2020:21:18:24 +0900] "GET /HelloSurvlet/ HTTP/1.1" 200 825
+0:0:0:0:0:0:0:1 - - [29/Jan/2020:21:18:38 +0900] "GET /HelloSurvlet/MySQLServlet HTTP/1.1" 200 307
