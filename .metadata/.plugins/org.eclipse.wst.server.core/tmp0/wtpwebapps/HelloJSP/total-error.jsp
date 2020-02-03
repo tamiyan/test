@@ -4,19 +4,23 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>total-error</title>
 </head>
-<body>
+
 <%@page isErrorPage="true" %>
 <p>数値を入力してください</p>
-<button onclick="historu.back()">戻る</button>
+<button onclick="history.back()">戻る</button>
 <br>
 <p><%=exception %></p>
 <table border=1>
 <tr>
 <td><strong>エラーメッセージ</strong></td>
-<td><%= exception.toString() %></td>
+<td><%= exception.getMessage() %></td>
 </tr>
+
+<tr>
+	<td><strong>例外を文字列に変換</strong></td>
+	<td><%= exception.toString() %></td>
 
 <tr>
 	<td><strong>スタックトレース</strong></td>
