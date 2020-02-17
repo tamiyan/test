@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=6e30e979c93832897603b115659adce2bea07560
 eclipse.preferences.version=1
-locationorg.eclipse.jst.server.tomcat.runtime.60=C:/Users/田宮未希/Desktop/pleiades-e4.5-java-jre_20160312/pleiades/tomcat/6
-locationorg.eclipse.jst.server.tomcat.runtime.70=C:/Users/田宮未希/Desktop/pleiades-e4.5-java-jre_20160312/pleiades/tomcat/7
-locationorg.eclipse.jst.server.tomcat.runtime.80=C:/Users/田宮未希/Desktop/pleiades-e4.5-java-jre_20160312/pleiades/tomcat/8
-=======
-eclipse.preferences.version=1
-locationorg.eclipse.jst.server.tomcat.runtime.60=C:/pleiades/tomcat/6
-locationorg.eclipse.jst.server.tomcat.runtime.70=C:/pleiades/tomcat/7
-locationorg.eclipse.jst.server.tomcat.runtime.80=C:/pleiades/tomcat/8
->>>>>>> 6e30e979c93832897603b115659adce2bea07560
+locationorg.eclipse.jst.server.tomcat.runtime.60=C\:/pleiades/tomcat/6
+locationorg.eclipse.jst.server.tomcat.runtime.70=C\:/pleiades/tomcat/7
+locationorg.eclipse.jst.server.tomcat.runtime.80=C\:/Users/\u7530\u5BAE\u672A\u5E0C/Desktop/pleiades-e4.5-java-jre_20160312/pleiades/tomcat/8

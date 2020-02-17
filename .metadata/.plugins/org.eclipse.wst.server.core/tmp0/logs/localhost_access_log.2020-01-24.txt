@@ -1,5 +1,0 @@
-127.0.0.1 - - [24/Jan/2020:20:14:37 +0900] "GET / HTTP/1.1" 404 1019
-0:0:0:0:0:0:0:1 - - [24/Jan/2020:20:14:38 +0900] "GET /HelloSurvlet/ HTTP/1.1" 200 728
-0:0:0:0:0:0:0:1 - - [24/Jan/2020:20:15:44 +0900] "GET /HelloSurvlet/ HTTP/1.1" 200 732
-0:0:0:0:0:0:0:1 - - [24/Jan/2020:20:15:57 +0900] "GET /HelloSurvlet/TestServlet?username=aaa&password=aaa HTTP/1.1" 200 55
-0:0:0:0:0:0:0:1 - - [24/Jan/2020:20:16:07 +0900] "POST /HelloSurvlet/TestServlet HTTP/1.1" 200 55
