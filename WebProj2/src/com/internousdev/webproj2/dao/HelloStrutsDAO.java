@@ -11,7 +11,7 @@ public class HelloStrutsDAO {
 
 	public boolean select(){
 		boolean ret=false;
-		com.internousdev.webproj2.util.DBConnector db = new DBConnector();
+		DBConnector db = new DBConnector();
 		Connection con = db.getConnection();
 		String sql ="select * from users";
 		try{
