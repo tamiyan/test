@@ -21,5 +21,6 @@
 	<s:submit value="問合せ"/>
 </s:form>
 
+
 </body>
 </html>
