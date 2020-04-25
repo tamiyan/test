@@ -9,8 +9,8 @@
 </head>
 <body>
 <br>
-<h1>以下の新規ユーザーが老徳されました。</h1>
-<s:property value="password"/>
+<h1>以下の新規ユーザーが登録されました。</h1>
+<s:property value="username"/>
 <br>
 <s:property value="password"/>
 
