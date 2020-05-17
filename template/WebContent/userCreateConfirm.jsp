@@ -5,21 +5,22 @@
 <html>
 <head>
 <meta charset=UTF-8>
-<link rel="stylsheet" type="text/css" href="./css/style.css">
-<title>UserCreateConflrm画面</title>
+<link rel="styelsheet" type="text/css" href="./css/style.css">
+<title>UserCreateConfirm画面</title>
 </head>
 <body>
 
-	<div Id="heade">
+	<div id="header">
 	</div>
-	<div Id="top">
+	<div id="main">
+	<div id="top">
 		<p>UserCreateConfirm</p>
 	</div>
 	<div>
 		<h3>登録する内容は以下でよろしいですか。</h3>
 		<table>
 			<s:form action="UserCreateCompleteAction">
-			<tr Id="box">
+			<tr id="box">
 				<td>
 					<label>ログインID：</label>
 				</td>
@@ -27,7 +28,7 @@
 					<s:property value="loginUserId" escape="false"/>
 				</td>
 			</tr>
-			<tr Id="box">
+			<tr id="box">
 				<td>
 					<label>ログインPASS：</label>
 				</td>
@@ -51,8 +52,8 @@
 			</s:form>
 		</table>
 	</div>
-	<div Id="footer">
-	</div>
+	<div id="footer">
+	</div></div>
 
 </body>
 </html>
