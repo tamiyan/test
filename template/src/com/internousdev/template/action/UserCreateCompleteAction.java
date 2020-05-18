@@ -1,9 +1,12 @@
 package com.internousdev.template.action;
 
 import java.util.Map;
+
 import org.apache.struts2.interceptor.SessionAware;
-import com.opensymphony.xwork2.ActionSupport;
+
 import com.internousdev.template.dao.UserCreateCompleteDAO;
+import com.opensymphony.xwork2.ActionSupport;
+
 
 public class UserCreateCompleteAction extends ActionSupport implements SessionAware {
 
@@ -27,10 +30,6 @@ public class UserCreateCompleteAction extends ActionSupport implements SessionAw
 	}
 
 	public void setLoginUserId(String loginUserId){
-		this.loginUserId;
-	}
-
-	public void setLoginUserId(String loginUserId){
 		this.loginUserId = loginUserId;
 	}
 
@@ -47,7 +46,7 @@ public class UserCreateCompleteAction extends ActionSupport implements SessionAw
 	}
 
 	public void setUserName(String userName){
-		this.userName = userNAme;
+		this.userName = userName;
 	}
 
 	public Map<String,Object> getSession(){
@@ -56,7 +55,7 @@ public class UserCreateCompleteAction extends ActionSupport implements SessionAw
 
 	@Override
 	public void setSession(Map<String,Object> session){
-		this.sessino = session;
+		this.session = session;
 
 	}
 
