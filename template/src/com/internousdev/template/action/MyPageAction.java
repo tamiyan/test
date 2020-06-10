@@ -8,6 +8,7 @@ import com.internousdev.template.dao.MyPageDAO;
 import com.internousdev.template.dto.MyPageDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
+
 public class MyPageAction extends ActionSupport implements SessionAware{
 	private Map<String,Object> session;
 	private String deleteFlg;
